@@ -1,14 +1,13 @@
-package com.lhx.java;
+package com.lhx.javausepython;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaApplication {
+public class JavaUsePythonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JavaApplication.class, args);
-
+        SpringApplication.run(JavaUsePythonApplication.class, args);
     }
 
 }

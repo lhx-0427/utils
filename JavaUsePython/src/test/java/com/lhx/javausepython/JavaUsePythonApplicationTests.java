@@ -1,10 +1,10 @@
-package com.lhx.java;
+package com.lhx.javausepython;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaApplicationTests {
+class JavaUsePythonApplicationTests {
 
     @Test
     void contextLoads() {
