@@ -13,6 +13,9 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>demo</name>
     <description>demo</description>
+    <modules>
+        <module>demo1</module>
+    </modules>
     <properties>
         <java.version>17</java.version>
     </properties>
